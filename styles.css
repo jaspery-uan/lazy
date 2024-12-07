@@ -1,0 +1,19 @@
+body{
+  padding: 25px;
+  background-color: red;
+}
+.title {
+	color: blue;
+	text-align: center;
+}
+.image1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.paragraph {
+  text-align: center;
+  color: white;
+  font-size: 10px
+}
